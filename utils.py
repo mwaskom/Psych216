@@ -12,7 +12,7 @@ def bootstrap(a, n_boot=10000, stat_func=np.mean):
     return boot_dist
 
 
-def prctiles(a, pcts):
+def percentiles(a, pcts):
 
     out = np.zeros(len(pcts))
     for i, p in enumerate(pcts):
