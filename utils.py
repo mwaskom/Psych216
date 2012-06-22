@@ -32,7 +32,7 @@ def percentiles(a, pcts):
     a: array
         data
     pcts: sequence of percentile values
-        percentiles to find score at
+        percentile or percentiles to find score at
 
     Returns
     -------
