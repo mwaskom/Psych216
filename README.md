@@ -5,7 +5,7 @@ A translation of the Psych216 homeworks from MATLAB to Python.
 
 The class website with lecture videos and notes can be found [here](http://white.stanford.edu/~knk/Psych216A/).
 
-The tutorials are written in the [IPython Notebook](http://ipython.org/ipython-doc/stable/interactive/htmlnotebook.html). However, you may need to be working from the IPython git master to actually work with the notebooks. (To just see the static outputs, use the links below).
+The tutorials are written in the [IPython Notebook](http://ipython.org/ipython-doc/stable/interactive/htmlnotebook.html).
 
 Static HTML Notebooks
 ---------------------
